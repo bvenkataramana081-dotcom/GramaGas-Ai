@@ -1,0 +1,6 @@
+{
+  "name": "GramaGas AI",
+  "description": "AI-powered Telugu LPG customer support assistant for rural customers in India supporting Indane Gas, Bharatgas, and HP Gas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
